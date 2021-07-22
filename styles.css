@@ -1,0 +1,13 @@
+h1 {
+	margin-left: 40px;
+	margin-top: 40px;
+	font-size: 32px;
+	font-weight: 350;
+}
+body {
+	margin: 15px;
+}
+
+img {
+	max-width: 30%;
+}
